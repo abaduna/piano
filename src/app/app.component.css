@@ -1,0 +1,14 @@
+.list-group-item {
+    cursor: pointer;
+    height: 50px;
+}
+.list-group-item:hover {
+   border: 3px solid black;
+   
+}
+.row{
+    width: 900px;
+    height: 400px;
+    margin: 25px auto;
+    align-items: center;
+}
